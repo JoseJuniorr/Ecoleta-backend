@@ -1,0 +1,29 @@
+points -> pontos de coleta
+img
+nome
+email
+whatsapp
+latitude
+longitude
+city
+uf
+
+
+items -> itens de coleta
+img
+title
+
+point_items -> rel dos itens que um ponto coleta
+point_id
+item_id
+
+N-N muitos para muitos
+
+funcionalidades
+ Cadastro de pontos de coleta
+ ***Cadastro de items -> feature
+
+ listar os itens de coleta
+ listar pontos -> filtro por estado cidade items
+ Listar um ponto especifico
+ 
